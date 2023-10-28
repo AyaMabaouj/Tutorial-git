@@ -34,10 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             });
 
-            deleteButton.addEventListener("click", function() {
-                // Code pour la fonction de suppression ici
-                listItem.remove();
-            });
+           
         }
     });
 });
